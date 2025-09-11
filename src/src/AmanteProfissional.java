@@ -7,7 +7,9 @@ public class AmanteProfissional {
 
 		System.out.println(
 	"bundchen joaquim merda tarada iate"
-	+ " moreno alto bonito profissional amante o endereco para vadia trouxa do caralho tara boazuda");
+
+	+ " moreno alto bonito profissional amante o endereco para vadia trouxa do caralho tara boazuda gostosa");
+
 	}
 
 }
